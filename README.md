@@ -47,7 +47,7 @@ I found out that there were 2773 orders,8333 pies sold and 353.45k made
 
 ![image](https://user-images.githubusercontent.com/109159668/180595291-9cd8e4a8-9f97-44fe-ae61-62fe80f823c6.png)
 
-                                       Total quantity, orders and amount of money made
+  Total quantity, orders and amount of money made
   
   
 # Period that had the highest sales
@@ -55,7 +55,7 @@ I found out that Saturday had the highest sales and April was the month with the
 
 ![image](https://user-images.githubusercontent.com/109159668/180595426-0e273f31-ca94-479f-baf3-73ac44279627.png)![image](https://user-images.githubusercontent.com/109159668/180595444-3cdb5294-9f6b-4bd9-8510-74509f1c0647.png)
 
-                                    Total by day of week and month respectivelty
+   Total by day of week and month respectivelty
    
    
 # Peoples preference
@@ -64,7 +64,7 @@ People preferred whole pies to sliced pies, preferred organic to in organic and 
 
 ![image](https://user-images.githubusercontent.com/109159668/180595691-62ed0fb7-fb37-494c-8c32-3658955e26e8.png) ![image](https://user-images.githubusercontent.com/109159668/180595750-7f54bd18-d885-4a4b-9e27-f42c31c79f95.png) ![image](https://user-images.githubusercontent.com/109159668/180595766-5ed8fce8-6192-4875-b533-b593f04f066b.png)
 
-                                 Order type , organic or non organic and slice or whole charts respectively
+    Order type , organic or non organic and slice or whole charts respectively
         
         
 # Full Dashboard
